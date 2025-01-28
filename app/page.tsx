@@ -3,7 +3,7 @@
 import { navItems } from "@/data";
 
 import Hero from "@/components/Hero";
-import Grid from "@/components/Grid";
+// import Grid from "@/components/Grid";
 import Footer from "@/components/Footer";
 import Approach from "@/components/Approach";
 import Experience from "@/components/Experience";
@@ -80,7 +80,7 @@ const Home = () => {
             />
           </div>
         </div>
-        <Grid />
+        {/* <Grid /> */}
 
         <RecentProjects />
         {/* <Clients /> */}
